@@ -1,1 +1,0 @@
-# deliveryproject for QA 
